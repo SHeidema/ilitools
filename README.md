@@ -2,7 +2,7 @@
 
 R functions for fitting baseline epidemiology models and running Shewhart outbreak detection on traveler surveillance data, as described in:
 
-> Heidema et al. (2025). *Global Detection of Respiratory Illness Outbreaks in Travelers: A Statistical Approach using GeoSentinel Data.*
+*Global Detection of Respiratory Illness Outbreaks in Travelers: A Statistical Approach using GeoSentinel Data.*
 
 ---
 
